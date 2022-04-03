@@ -4,9 +4,12 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-     
-    </div>
+    <ChatEngine
+      height="100vh"
+      projectID="9aacb93e-d46a-4391-b40b-cdca47a8ce04"
+      userName="shivani"
+      userSecret="Chat123"
+      />
   );
 }
 
