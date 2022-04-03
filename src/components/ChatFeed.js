@@ -3,6 +3,7 @@ const ChatFeed = (props) => {
     <div>
       Chat Feed
     </div>
+    
   );
 }
 
