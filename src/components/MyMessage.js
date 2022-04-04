@@ -1,4 +1,4 @@
-const MyMessage = () => {
+const MyMessage = (props) => {
   return(
     <div>
       MyMessage
